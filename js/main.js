@@ -239,6 +239,16 @@
 // let sum = olma + olmay;
 // console.log(sum);
 
+// 25-Masala;
+
+// let uchxonali = prompt("3 xonali son kiriting");
+
+// let a = Math.floor(uchxonali % 10);
+// let b = Math.floor((uchxonali / 10 ) % 10 );
+// console.log(a, b);
+
+
+
 
 
 
