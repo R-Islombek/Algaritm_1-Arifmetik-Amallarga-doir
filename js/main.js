@@ -68,6 +68,14 @@
 // c = a * 10 + b * 1; 
 // console.log(c);
 
+// 8-Masala;
+
+// let uch = prompt("3 xonali son kiriting");
+
+// let a = Math.floor((uch / 10)%10);
+
+// console.log(a);
+
 
 
  
