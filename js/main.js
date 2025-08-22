@@ -146,6 +146,16 @@
 // M = (a + b) / 2;
 // console.log(M);
 
+// 16-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
+// P = a + b + c;
+
+// console.log(c, P);
+
 
 
 
