@@ -118,6 +118,16 @@
 
 // console.log(S);
 
+// 13-Masala;
+
+// let a = prompt("a sonini kiriting");
+
+// V = Math.pow(a, 3);
+// S = 6 * Math.pow(a, 2);
+
+// console.log(V, S);
+
+
 
 
 
