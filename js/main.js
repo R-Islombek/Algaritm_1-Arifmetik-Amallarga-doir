@@ -208,6 +208,20 @@
 
 // console.log(y);
 
+// 22-Masala;
+
+// let a = prompt("a sonini kiriting");
+
+// let x = Math.pow(a, 3);
+// let y = Math.pow(a, 6);
+// let z = Math.pow(a, 9)
+
+// console.log(x, y, z);
+
+// 23-Masala;
+
+
+
 
 
 
