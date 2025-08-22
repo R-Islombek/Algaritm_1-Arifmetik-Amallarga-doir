@@ -47,5 +47,21 @@
 
 // console.log(a, b);
 
+// 6-Masala;
+
+// let ikki = prompt("ikki xonali son kiriting");
+
+// let a = Math.floor(ikki / 10 );
+// let b = Math.floor(ikki % 10);
+
+// c = a + b;
+
+// console.log(c);
+
+// 7-Masala;
+
+
+
+
 
 
