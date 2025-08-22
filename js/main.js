@@ -220,6 +220,27 @@
 
 // 23-Masala;
 
+// let T = prompt("t sonini kiriting");
+
+// X = (T - 32 ) * 5 / 9;
+
+// console.log(X);
+
+// 24-Masala;
+
+// let x = prompt("kg ni kiriting");
+// let y = prompt("kg ni kiriting");
+
+// let A = 3000;
+// let B = 4000;
+// let olma = (A / x);
+// let olmay = (B / y);
+
+// let sum = olma + olmay;
+// console.log(sum);
+
+
+
 
 
 
