@@ -258,6 +258,20 @@
 // M = a + b + c;
 // console.log(M);
 
+// 27-Masala;
+
+// let uchxonali = prompt("3 xonali son kiriting");
+
+// let a = Math.floor(uchxonali / 100);
+// let b = Math.floor(uchxonali % 10);
+// let c = Math.floor((uchxonali / 10) % 10 );
+
+// num = c * 100 + b * 10 + a * 10;
+// console.log(num);
+
+
+
+
 
 
 
