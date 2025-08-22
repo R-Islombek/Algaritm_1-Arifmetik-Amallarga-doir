@@ -279,6 +279,15 @@
 
 // num = b * 100 + a * 10 + c * 10;
 
+// 29-Masala;
+
+// let uchxonali = prompt("3 xonali son kiriting");
+
+// let a = Math.floor(uchxonali / 100); 
+// let b = Math.floor(uchxonali % 10); 
+// let c = Math.floor((uchxonali / 10) % 10 ); 
+
+// num = a * 100 + b * 10 + c * 10;
 
 
 
