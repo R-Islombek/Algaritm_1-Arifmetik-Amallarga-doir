@@ -60,8 +60,14 @@
 
 // 7-Masala;
 
+// let ikki = prompt("2 xonali son kiriting")
+
+// let a = Math.floor(ikki % 10);
+// let b = Math.floor(ikki / 10);
+
+// c = a * 10 + b * 1; 
+// console.log(c);
 
 
 
-
-
+ 
