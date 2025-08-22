@@ -200,6 +200,13 @@
 
 // console.log(X, Y, Z);
 
+// 21-Masala;
+
+// let x = prompt("x sonini kiriting");
+
+// y = 4 * Math.pow((x - 3), 6) - 7 * Math.pow((x - 3), 2) + 2;
+
+// console.log(y);
 
 
 
