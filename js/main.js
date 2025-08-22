@@ -138,6 +138,14 @@
 
 // console.log(V, S);
 
+// 15-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+
+// M = (a + b) / 2;
+// console.log(M);
+
 
 
 
