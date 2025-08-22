@@ -168,6 +168,28 @@
 
 // S = PI ( Math.pow(r1, 2) + Math.pow(r2, 2) );
 
+// 18-Masala;
+
+// let L = prompt("Aylananing uzunligini kiriting");
+
+// L = 2 * PI * R;
+// S = PI * Math.pow(R, 2);
+// PI = 3;
+
+// console.log(L, S);
+
+// 19-Masala;
+
+// let x = prompt("x soninini kiriting");
+// let y = prompt("y sonini kiriting");
+// let x1 = prompt("x1 sonini kiriting");
+// let y1 = prompt("y1 sonini kiriting");
+
+// L = Math.sqrt(Math.pow((x - x1),2) + Math.pow(y - y1), 2);
+// console.log(L);
+
+
+
 
 
 
