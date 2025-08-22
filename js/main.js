@@ -127,6 +127,16 @@
 
 // console.log(V, S);
 
+// 14-Masala;
+
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = prompt("c sonini kiriting");
+
+// V = a * b * c ;
+// S = 2 * (a * b + b * c + a * c);
+
+// console.log(V, S);
 
 
 
