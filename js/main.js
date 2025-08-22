@@ -106,6 +106,17 @@
 
 // console.log(c);
 
+// 12-Masala;
+
+// let d = prompt("diametirini kiriting");
+
+// L = PI * d;
+// PI = 3.14;
+// r = d / 2;
+
+// S = PI * Math.pow(r, 2);
+
+// console.log(S);
 
 
 
