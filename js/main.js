@@ -156,6 +156,18 @@
 
 // console.log(c, P);
 
+// 17-Masala;
+
+// let r1 = prompt("radisuini kiriting");
+// let r2 = prompt("radisuini kiriting");
+
+// let PI = 3
+
+// S1 = PI * r1 ;
+// S2 = PI * r2 ;
+
+// S = PI ( Math.pow(r1, 2) + Math.pow(r2, 2) );
+
 
 
 
