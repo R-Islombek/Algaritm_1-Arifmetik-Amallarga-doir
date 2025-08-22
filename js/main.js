@@ -76,6 +76,17 @@
 
 // console.log(a);
 
+// 9-Masala;
+
+// let tort = prompt("to'rt xonali son kiriting");
+
+// let c = Math.floor(tort / 100);
+
+// let w = Math.floor( c % 10 );
+
+// console.log(w);
+
+
 
 
  
