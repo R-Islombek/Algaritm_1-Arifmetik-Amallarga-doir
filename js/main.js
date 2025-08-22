@@ -37,6 +37,15 @@
 
 // console.log("Umumiy summa");
 
+// 5-Masala;
+
+// A = 4;
+// B = 6;
+
+// let a = B;
+// let b = A;
+
+// console.log(a, b);
 
 
 
