@@ -289,7 +289,13 @@
 
 // num = a * 100 + b * 10 + c * 10;
 
+// 30-Masala;
 
+// let son = prompt("999 dan katta son kiriting");
+
+// let a = Math.floor(son / 1000) % 10;
+
+// console.log(a);
 
 
 
