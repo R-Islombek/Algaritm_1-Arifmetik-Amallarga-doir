@@ -25,4 +25,18 @@
 
 // console.log(y);
 
+// 4-Masala;
+
+// let A = 3000;
+// let x = prompt("kg ni kiriting");
+// let y = prompt("kg ni kiriting")
+
+// sum =  A / x ;
+
+// summ = y * sum;
+
+// console.log("Umumiy summa");
+
+
+
 
