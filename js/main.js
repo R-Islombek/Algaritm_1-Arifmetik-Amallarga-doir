@@ -87,6 +87,22 @@
 // console.log(w);
 
 
+// 10-Masala
+
+// N = 3600;
+
+// let hours = Math.floor(N / 3600);
+// let minutes = Math.floor((N % 3600)/ 60);
+// let sekund = N % 60;
+
+// console.log(hours, minutes, sekund);
+
+// 11-Masala;
+
+
+
+
+
 
 
  
