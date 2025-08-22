@@ -17,3 +17,12 @@
 // let G = Math.sqrt(a * b);
 // console.log(G);
 
+// 3-Masala;
+
+// let x = prompt("x sonini kiriting");
+
+// y = 3 * x ** 6 - 6 * x **2 -7; 
+
+// console.log(y);
+
+
