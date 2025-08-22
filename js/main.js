@@ -188,6 +188,19 @@
 // L = Math.sqrt(Math.pow((x - x1),2) + Math.pow(y - y1), 2);
 // console.log(L);
 
+// 20-Masala;
+
+// a = 4;
+// b = 6;
+// y = 8;
+
+// let X = a;
+// let Y = b;
+// let Z = y;
+
+// console.log(X, Y, Z);
+
+
 
 
 
